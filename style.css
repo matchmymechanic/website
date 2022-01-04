@@ -3,6 +3,11 @@
     src: url('gunplay.ttf');
     font-family: gunplay;
 }
+@font-face
+{
+    src: url('impact.ttf');
+    font-family: Impact;
+}
 html
 {
     background: #1A1A1A;
