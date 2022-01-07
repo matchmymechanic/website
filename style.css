@@ -8,6 +8,10 @@
     src: url('impact.ttf');
     font-family: Impact;
 }
+a
+{
+    color:  #FF8600;
+}
 html
 {
     background: #1A1A1A;
